@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RoddyGlitchh
+- 👀 I’m interested in Front-End Development, Hip-Hop Music, Video Games
+- 🌱 I’m currently learning PHP
+- 💞️ I’m looking to collaborate on React libraries
+- 📫 How to reach me : mohsin.kamal.akbar@gmail.com
